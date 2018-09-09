@@ -5,6 +5,7 @@ var newObject = Object.assign({}, obj)
 var object = { foo: 'bar' }
 
 function updateObjectWithKeyAndValue(object, key, value){
+  const newObject 
 return object
 }
 
