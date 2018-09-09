@@ -5,8 +5,8 @@ const newObject = Object.assign({}, object, {['key: value']})
 
 
 function updateObjectWithKeyAndValue(object, key, value){
-  const newObject = Object.assign({}, object, {['key: value']})
-return newObject
+  return newObject = Object.assign({}, object, {['key: value']})
+
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
